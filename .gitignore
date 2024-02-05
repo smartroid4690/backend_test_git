@@ -12,5 +12,10 @@ media/*/.png
 media/*/.gif
 media/*/.bmp
 media/*/.tiff
-media/*/.jpg
+
+# Do not ignore subdirectories themselves
+!media/*/
+
+
 media/*/*
+media/*/.jpg
