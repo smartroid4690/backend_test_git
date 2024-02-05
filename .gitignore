@@ -3,13 +3,4 @@
 .env
 
 
-
-media/*/*.jpg
-media/*/*.jpeg
-media/*/*.png
-media/*/*.gif
-media/*/*.bmp
-media/*/*.tiff
-
-# Do not ignore subdirectories themselves
-!media/*/
+./media/*/*
