@@ -5,5 +5,12 @@
 
 ./media/*/*
 
-media/*/*
+
 media/*/.jpg
+media/*/.jpeg
+media/*/.png
+media/*/.gif
+media/*/.bmp
+media/*/.tiff
+media/*/.jpg
+media/*/*
