@@ -1,0 +1,15 @@
+# Ignore image files in any folder under 'media', but include subfolders
+.venv
+.env
+
+
+
+media/*/*.jpg
+media/*/*.jpeg
+media/*/*.png
+media/*/*.gif
+media/*/*.bmp
+media/*/*.tiff
+
+# Do not ignore subdirectories themselves
+!media/*/
